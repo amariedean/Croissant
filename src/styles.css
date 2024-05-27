@@ -11,7 +11,6 @@
   }
   body {
     text-align: center;
-    background-color: azure;
   }
   img {
     display: block;
@@ -21,6 +20,7 @@
 
 body {
   margin: 20px;
+  background-color: azure;
 }
 
 h2 {
